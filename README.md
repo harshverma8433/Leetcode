@@ -8,6 +8,7 @@ leetcode questions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/harshverma8433/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0088-merge-sorted-array](https://github.com/harshverma8433/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,9 +41,14 @@ leetcode questions
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/harshverma8433/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/harshverma8433/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/harshverma8433/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/harshverma8433/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/harshverma8433/Leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
