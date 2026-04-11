@@ -13,6 +13,7 @@ leetcode questions
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshverma8433/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/harshverma8433/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/harshverma8433/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/harshverma8433/Leetcode/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,6 +43,7 @@ leetcode questions
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/harshverma8433/Leetcode/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/harshverma8433/Leetcode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +52,7 @@ leetcode questions
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshverma8433/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/harshverma8433/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/harshverma8433/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/harshverma8433/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/harshverma8433/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
