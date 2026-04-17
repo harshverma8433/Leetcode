@@ -10,6 +10,7 @@ leetcode questions
 | [0004-median-of-two-sorted-arrays](https://github.com/harshverma8433/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshverma8433/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/harshverma8433/Leetcode/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/harshverma8433/Leetcode/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshverma8433/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/harshverma8433/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/harshverma8433/Leetcode/tree/master/0169-majority-element) |
@@ -61,14 +62,20 @@ leetcode questions
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/harshverma8433/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/harshverma8433/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/harshverma8433/Leetcode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/harshverma8433/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/harshverma8433/Leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harshverma8433/Leetcode/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/harshverma8433/Leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
