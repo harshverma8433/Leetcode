@@ -15,10 +15,12 @@ leetcode questions
 | [0088-merge-sorted-array](https://github.com/harshverma8433/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/harshverma8433/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/harshverma8433/Leetcode/tree/master/0189-rotate-array) |
+| [0704-binary-search](https://github.com/harshverma8433/Leetcode/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/harshverma8433/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0704-binary-search](https://github.com/harshverma8433/Leetcode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
