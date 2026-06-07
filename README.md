@@ -11,6 +11,7 @@ leetcode questions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshverma8433/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/harshverma8433/Leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/harshverma8433/Leetcode/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/harshverma8433/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshverma8433/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/harshverma8433/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/harshverma8433/Leetcode/tree/master/0169-majority-element) |
@@ -20,6 +21,7 @@ leetcode questions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/harshverma8433/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/harshverma8433/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/harshverma8433/Leetcode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -80,4 +82,8 @@ leetcode questions
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/harshverma8433/Leetcode/tree/master/0049-group-anagrams) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/harshverma8433/Leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
