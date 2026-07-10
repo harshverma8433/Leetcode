@@ -14,6 +14,7 @@ leetcode questions
 | [0074-search-a-2d-matrix](https://github.com/harshverma8433/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshverma8433/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/harshverma8433/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/harshverma8433/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/harshverma8433/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/harshverma8433/Leetcode/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/harshverma8433/Leetcode/tree/master/0704-binary-search) |
@@ -73,6 +74,7 @@ leetcode questions
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/harshverma8433/Leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/harshverma8433/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/harshverma8433/Leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -86,4 +88,8 @@ leetcode questions
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/harshverma8433/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/harshverma8433/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
